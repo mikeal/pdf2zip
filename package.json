@@ -1,0 +1,26 @@
+{
+  "name": "pdf2zip",
+  "version": "0.0.0-development",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+  },
+  "keywords": [],
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (http://www.mikealrogers.com)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "archiver": "^2.0.3",
+    "gm": "^1.23.0",
+    "tmp": "0.0.33"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3",
+    "semantic-release": "^8.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikeal/pdf2zip.git"
+  }
+}

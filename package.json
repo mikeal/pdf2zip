@@ -13,7 +13,7 @@
   "dependencies": {
     "archiver": "^2.0.3",
     "gm": "^1.23.0",
-    "tmp": "0.0.33"
+    "tmp": "0.1.0"
   },
   "devDependencies": {
     "standard": "^10.0.3",

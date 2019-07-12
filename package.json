@@ -16,7 +16,7 @@
     "tmp": "0.0.33"
   },
   "devDependencies": {
-    "standard": "^10.0.3",
+    "standard": "^13.0.2",
     "semantic-release": "^8.0.3"
   },
   "repository": {
